@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shambhavishanbhag1910.github.io/sitemap.xml
